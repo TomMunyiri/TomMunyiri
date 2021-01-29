@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I am an Sofftware Developer based in Nairobi, Kenya.
+🌱 I am an Software Developer based in Nairobi, Kenya. - 🌱
 
-- 🔭 I’m currently working on Android and React
-- 🌱 I’m currently learning Kotlin and React
+🔭 Currently working on Android and ReactJS
+🌱 Learning Kotlin and React
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TomMunyiri" alt="TomMunyiri" /> </p>
 
