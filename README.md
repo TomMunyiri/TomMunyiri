@@ -4,7 +4,7 @@
 
 🔭 Currently working on Android and ReactJS.
 
-🌱 Learning Kotlin and React.
+🌱 Learning Kotlin and ReactJS.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TomMunyiri" alt="TomMunyiri" /> </p>
 
