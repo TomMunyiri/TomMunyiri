@@ -2,9 +2,9 @@
 
 🌱 I am a Software Developer based in Nairobi, Kenya. 🌱
 
-🔭 Currently working on Android and ReactJS.
+🔭 Currently working on Android (Kotlin/Java) and iOS (Swift).
 
-🌱 Learning ReactJS.
+🌱 Learning Jetpack Compose, Swift/iOS.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TomMunyiri" alt="TomMunyiri" /> </p>
 
