@@ -2,9 +2,9 @@
 
 🌱 I am a Software Developer based in Nairobi, Kenya. 🌱
 
-🔭 Currently working on Android (Kotlin/Java), Java EE and iOS (Swift).
+🔭 Currently working on Android - Kotlin, Java, Jetpack Compose, XML, MVI, MVVM, Jetpack.
 
-🌱 Learning Jetpack Compose, KMP, Springboot and Swift/iOS.
+🌱 Learning Kotlin Multi-Platform, Springboot and Swift/iOS.
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
